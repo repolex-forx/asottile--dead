@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/asottile/dead/commit/579345debb8e0a815ffde1a5fc24782a575cac30",
       "git:hexsha": "579345debb8e0a815ffde1a5fc24782a575cac30",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-10-20T19:35:42.462358+00:00"
     },
     {
       "@id": "https://repolex.ai/r/asottile/dead/commit/de4a91300ac873d551a2d9440ed41d60bfecc993",
